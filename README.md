@@ -4,7 +4,7 @@ Modify the imported Genisis3 armature bone names to allow blender to copy poses 
 
 The Genesis3 armature names bones in the following fashion: side-bodyPart-BoneType
 
-Blender requires the side of the bone to be listed on it's own, to achieve that this script modifys the bone name to become bodyPart-BoneType.Side
+Blender requires the side of the bone to be listed on it's own, to achieve that this script modifies the bone name to become bodyPart-BoneType.Side
 
 Example: lShldrBend becomes ShldrBend.l
 
