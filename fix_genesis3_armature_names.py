@@ -1,4 +1,8 @@
-bl_info = {"name": "Fix Daz3D Genesis3 Armature Naming", "category": "Rigging"}
+bl_info = {
+"name": "Fix Daz3D Genesis3 Armature Naming",
+"author": "Joseph Adams",
+"description": "Modify bone names to allow copying information across bones.",
+"category": "Rigging"}
 
 import bpy
 
